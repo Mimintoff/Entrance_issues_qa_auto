@@ -1,4 +1,4 @@
-package ru.ifellow.qa_auto;
+package ru.ifellow.qa_auto.converter;
 
 interface Converter {
 
